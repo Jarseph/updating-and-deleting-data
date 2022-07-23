@@ -1,0 +1,2 @@
+DELETE FROM ARTWORKS
+WHERE completion_date LIKE 'August 1882'
